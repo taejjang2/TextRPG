@@ -1,0 +1,15 @@
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/textRPG2.csproj.AssemblyReference.cache
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/textRPG2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/textRPG2.AssemblyInfoInputs.cache
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/textRPG2.AssemblyInfo.cs
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/textRPG2.csproj.CoreCompileInputs.cache
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/bin/Debug/net7.0/textRPG2
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/bin/Debug/net7.0/textRPG2.deps.json
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/bin/Debug/net7.0/textRPG2.runtimeconfig.json
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/bin/Debug/net7.0/textRPG2.dll
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/bin/Debug/net7.0/textRPG2.pdb
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/textRPG2.dll
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/refint/textRPG2.dll
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/textRPG2.pdb
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/textRPG2.genruntimeconfig.cache
+/Users/taeheeyoon/Projects/textRPG2/textRPG2/obj/Debug/net7.0/ref/textRPG2.dll
